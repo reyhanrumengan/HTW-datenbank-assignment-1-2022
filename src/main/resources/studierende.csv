@@ -1,0 +1,10 @@
+matr_nr;name;vorname;geburtsdatum;geburtsort;anzahl_semester;studienbeginn
+24002;Xenokrates;Anon;1998-01-01;Athen;2;WS 2021
+25403;Rubens;Peter;1997-01-01;Antwerpen;3;SS 2020
+25555;Diotima;Anon;2000-01-01;Berlin;6;WS 2019
+26120;Lovelace;Ada;2000-01-01;London;3;SS 2020
+26830;Babbage;Charles;1999-01-01;Berlin;4;WS 2020
+27550;Schopenhauer;Friedrich;2000-01-01;Berlin;4;WS 2020
+28106;Turing;Alan;2001-01-01;London;4;WS 2020
+29120;Theophrastos;Anon;2000-01-01;Berlin;4;WS 2020
+29555;Feuerbach;Ludwig;2000-01-01;Berlin;4;WS 2020
