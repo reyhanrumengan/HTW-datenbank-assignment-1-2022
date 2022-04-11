@@ -1,0 +1,3 @@
+Das müsste man im Bash eingeben:
+
+cat studierende.csv | awk -F ";" '{sum+=$6} END { if($6~/[0-9]+/) print sum/(NR-1)}'
